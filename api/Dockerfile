@@ -1,5 +1,5 @@
 FROM       python:3
-LABEL      maintainer="Sawood Alam <@ibnesayeed>"
+LABEL      maintainer="Sawood Alam <@ibnesayeed>" modifiedby="Parul Jain"
 
 ENV        REDIS_URL="redis://localhost:6379"
 
