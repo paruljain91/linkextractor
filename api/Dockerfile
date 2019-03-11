@@ -1,5 +1,5 @@
 FROM       ruby:2
-LABEL      maintainer="Sawood Alam <@ibnesayeed>"
+LABEL      maintainer="Sawood Alam <@ibnesayeed>" modifiedby="Parul Jain"
 
 ENV        LANG C.UTF-8
 ENV        REDIS_URL="redis://localhost:6379"
